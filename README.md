@@ -1,4 +1,4 @@
 # Asteroid
 Rehearsal Repository
 
-#[about Structure Programming](One.md)
+[about Structure Programming](One.md)
