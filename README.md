@@ -8,4 +8,4 @@ Rehearsal Repository
 
 
 
-Trying to keep healthy diet. Eat **APPLE**
+Trying to keep healthy diet. Eat *APPLE*
